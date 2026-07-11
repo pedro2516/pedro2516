@@ -12,6 +12,4 @@ Sou licenciado em Engenharia e Gestão de Sistemas de Informação (LEGSI) pela 
 ![](https://streak-stats.demolab.com/?user=pedro2516&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pedro2516&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=pedro2516&icon=0&color=blue)](https://visitcount.itsvg.in)
 
