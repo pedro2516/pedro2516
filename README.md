@@ -25,7 +25,9 @@ Sou licenciado em Engenharia e Gestão de Sistemas de Informação (LEGSI) pela 
 ![GitHub](https://img.shields.io/badge/github-%236e5494.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 GitHub Stats:
+
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedro2516&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="Estatísticas Gerais" height="180px" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=pedro2516&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Linguagens Mais Usadas" height="180px" />
 </p>
