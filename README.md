@@ -29,5 +29,5 @@ Sou licenciado em Engenharia e Gestão de Sistemas de Informação (LEGSI) pela 
 <p align="left">
   <img src="https://github-readme-stats-eight-delta-43.vercel.app/api?username=pedro2516&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="Estatísticas Gerais" height="180px" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-delta-43.vercel.app/api/top-langs/?username=pedro2516&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Linguagens Mais Usadas" height="180px" />
+  <img src="https://github-readme-stats-eight-delta-43.vercel.app/api/top-langs/?username=pedro2516&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Linguagens Mais Usadas" height="180px" />
 </p>
