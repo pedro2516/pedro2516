@@ -2,7 +2,9 @@
 Sou licenciado em Engenharia e Gestão de Sistemas de Informação (LEGSI) pela Universidade do Minho, com forte interesse no desenvolvimento de soluções de software. Atualmente focado em aprofundar competências nos domínios da engenharia de dados e sistemas inteligentes, aplicando uma base analítica sólida na resolução de problemas complexos.
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroneves16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pedromneves16@gmail.com)
+<a href="https://linkedin.com/in/pedroneves16" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:pedromneves16@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 ### 💻 Tech Stack
 
