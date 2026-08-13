@@ -9,7 +9,7 @@ Sou licenciado em Engenharia e Gestão de Sistemas de Informação (LEGSI) pela 
 ### 💻 Tech Stack
 
 #### Languages
-<img src="./icons/c.svg" alt="C" height="35" /> &nbsp; <img src="./icons/java.svg" alt="Java" height="35" /> &nbsp; <img src="./icons/javascript.svg" alt="JavaScript" height="35" /> &nbsp; <img src="./icons/python.svg" alt="Python" height="35" /> &nbsp; <img src="./icons/html.svg" alt="HTML5" height="35" /> &nbsp; <img src="./icons/css.svg" alt="CSS3" height="35" />
+<img src="./icons/c.svg" alt="C" height="35" /> &nbsp; <img src="./icons/java.svg" alt="Java" height="35" /> &nbsp; <img src="./icons/javascript.svg" alt="JavaScript" height="35" /> &nbsp; <img src="./icons/python.svg" alt="Python" height="35" /> &nbsp; <img src="./icons/html.svg" alt="HTML5" height="35" /> &nbsp; <img src="./icons/css.svg" alt="CSS3" height="35" /> &nbsp; <img src="./icons/prolog.svg" alt="Prolog" height="35" />
 
 #### Web & Frameworks
 <img src="./icons/vue.svg" alt="Vue.js" height="35" /> &nbsp; <img src="./icons/strapi.svg" alt="Strapi" height="35" /> &nbsp; <img src="./icons/supabase.svg" alt="Supabase" height="35" />
