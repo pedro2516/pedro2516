@@ -4,25 +4,8 @@ Sou licenciado em Engenharia e Gestão de Sistemas de Informação (LEGSI) pela 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroneves16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pedromneves16@gmail.com)
 
-### 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Prolog](https://img.shields.io/badge/Prolog-%23742858.svg?style=for-the-badge&logo=prolog&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A28.svg?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-%2366CCFF.svg?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Weka](https://img.shields.io/badge/Weka-ED1C24?style=for-the-badge&logo=weka&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%236e5494.svg?style=for-the-badge&logo=github&logoColor=white)
+### 💻 Tech Stack
+<img src="./icons/c.svg" alt="C" height="35" /> &nbsp; <img src="./icons/java.svg" alt="Java" height="35" /> &nbsp; <img src="./icons/javascript.svg" alt="JavaScript" height="35" /> &nbsp; <img src="./icons/python.svg" alt="Python" height="35" /> &nbsp; <img src="./icons/html.svg" alt="HTML5" height="35" /> &nbsp; <img src="./icons/css.svg" alt="CSS3" height="35" /> &nbsp; <img src="./icons/vue.svg" alt="Vue.js" height="35" /> &nbsp; <img src="./icons/strapi.svg" alt="Strapi" height="35" /> &nbsp; <img src="./icons/supabase.svg" alt="Supabase" height="35" /> &nbsp; <img src="./icons/postgresql.svg" alt="PostgreSQL" height="35" /> &nbsp; <img src="./icons/mysql.svg" alt="MySQL" height="35" /> &nbsp; <img src="./icons/apachespark.svg" alt="Apache Spark" height="35" /> &nbsp; <img src="./icons/hadoop.svg" alt="Apache Hadoop" height="35" /> &nbsp; <img src="./icons/jupyter.svg" alt="Jupyter" height="35" /> &nbsp; <img src="./icons/ollama.svg" alt="Ollama" height="35" /> &nbsp; <img src="./icons/docker.svg" alt="Docker" height="35" /> &nbsp; <img src="./icons/git.svg" alt="Git" height="35" /> &nbsp; <img src="./icons/github.svg" alt="GitHub" height="35" /> &nbsp; <img src="./icons/vscode.svg" alt="VS Code" height="35" /> &nbsp; <img src="./icons/n8n.svg" alt="n8n" height="35" />
 
 ### 📊 GitHub Stats:
 
